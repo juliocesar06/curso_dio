@@ -1,0 +1,21 @@
+#tit {
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  color: green;
+  font-weight: bold;
+}
+#cep {
+  position: absolute;
+  margin-left: 500px;
+  width: 220px;
+}
+#bt {
+  position: absolute;
+  margin-left: 720px;
+}
+#h3 {
+  margin: 20px;
+  margin-left: 500px;
+  color: green;
+}
